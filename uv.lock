@@ -1,0 +1,19 @@
+version = 1
+revision = 3
+requires-python = ">=3.10"
+
+[[package]]
+name = "capturer"
+version = "0.0.7"
+source = { git = "https://github.com/ComputationalExpression/Capturer#470c6c6c5d733fc63ed890e9e333903b674909e4" }
+
+[[package]]
+name = "maltese-python"
+version = "1.0.0"
+source = { virtual = "." }
+dependencies = [
+    { name = "capturer" },
+]
+
+[package.metadata]
+requires-dist = [{ name = "capturer", git = "https://github.com/ComputationalExpression/Capturer" }]
