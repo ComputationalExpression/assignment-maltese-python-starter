@@ -2,9 +2,9 @@
 
 |Item |       |
 |:----|:------|
-|Week |Week 2, Monday |
+|Week |Week 2, Wednesday |
 |Type |In-class activity |
-|Due  |End of the class session |
+|Due  |Week 2, Friday by 9am |
 |Progress |[![Grade](../../actions/workflows/main.yml/badge.svg?branch=main)](../../actions/workflows/main.yml) |
 
 > My way of learning is to heave a wild and unpredictable monkey-wrench into the machinery.
