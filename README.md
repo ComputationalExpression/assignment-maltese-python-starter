@@ -97,7 +97,9 @@ activity grade.
 |**Incomplete** |No meaningful navigation attempted |
 
 The automated check confirms one thing only: that `cage/maltese-python.png` exists. Run it
-yourself with:
+yourself from your assignment's **working directory**, not from whatever room you were standing
+in when you captured the python. That is the top-level folder you land in right after cloning,
+for example `.../assignment-maltese-python-starter`:
 
 ```text
 uv run gatorgrade --config .gatorgrade.yml
